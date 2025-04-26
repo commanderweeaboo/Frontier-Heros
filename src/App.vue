@@ -94,8 +94,8 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "Mission": "001",
+          "name": "Precious Scenario",
           "status": "start"
         },
       ],
@@ -125,8 +125,8 @@ export default {
           "mech": "Scarlet Judicator"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Cyanide",
+          "alias": "Isa Koschei",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
