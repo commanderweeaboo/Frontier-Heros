@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "Mission": "001",
-          "name": "Precious Scenario",
+          "name": "Establish Good Tidings",
           "status": "start"
         },
       ],
